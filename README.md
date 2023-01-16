@@ -103,7 +103,7 @@
     <img
       align="center"
       height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=NightBaRron1412&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedtorres2000&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
   </p>
   
@@ -120,7 +120,7 @@
     />
   </h1>
 
-  <a href="https://www.linkedin.com/in/ashetaia/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-921010201/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="LinkedIn"
@@ -128,7 +128,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.facebook.com/NightBaRron1412" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/Tor.rees99" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
       alt="Facebook"
@@ -136,26 +136,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.instagram.com/nightbarron_1412/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/tor.rees/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
       alt="Instagram"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://twitter.com/NightBarRon1412" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"
-      alt="Twitter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://discordapp.com/users/316490121556000775" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"
-      alt="Discord"
       width="40"
       height="40"
     />
