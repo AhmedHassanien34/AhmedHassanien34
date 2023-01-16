@@ -15,6 +15,40 @@
 
 - 📫 How to reach me **Ahmedtorres2000@gmail.com**
 
+  <h1>
+    Connect With Me
+    <img
+      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
+      height="25px"
+    />
+  </h1>
+
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-921010201/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.facebook.com/Tor.rees99" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+      alt="Facebook"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.instagram.com/tor.rees/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
+      alt="Instagram"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTorres2000&" alt="AhmedTorres2000" /></p>
 
   # 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="5%"/>
@@ -102,39 +136,6 @@
   𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ahmedtorres2000&theme=react-dark&hide_border=true&area=true)
   [![Code's github activity
   graph](https://github.com/NightBaRron1412/NightBaRron1412/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/NightBaRron1412)
-
-  <h1>
-    Connect With Me
-    <img
-      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
-      height="25px"
-    />
-  </h1>
-
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-921010201/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.facebook.com/Tor.rees99" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-      alt="Facebook"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.instagram.com/tor.rees/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
-      alt="Instagram"
-      width="40"
-      height="40"
-    />
-  </a>
 
   <br /><br />
 
