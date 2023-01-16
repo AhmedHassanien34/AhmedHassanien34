@@ -26,6 +26,173 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTorres2000&" alt="AhmedTorres2000" /></p>
 
+  # 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="5%"/>
+
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      alt="C"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"
+      alt="gcc"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
+      alt="CMake"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
+      alt="Arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      alt="Python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+      alt="Anaconda"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+      alt="Jupyter"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      alt="VS Code"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+      alt="TensorFlow"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+      alt="Numpy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+      alt="Pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="Photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
+      alt="After Effects"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+      alt="MATLAB"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+      alt="Linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      alt="HTML5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      alt="CSS"
+      width="40"
+      height="40"
+    />
+  </a>
+
+<br /> <br />
+
+  # 📊GitHub Stats :
+
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=NightBaRron1412&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    />
+    <img
+      align="center"
+      height="195px"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=NightBaRron1412&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
+    />
+  </p>
+  
+  ![𝚐𝚒𝚝𝚑𝚞𝚋
+  𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=NightBaRron1412&theme=react-dark&hide_border=true&area=true)
+  [![Code's github activity
+  graph](https://github.com/NightBaRron1412/NightBaRron1412/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/NightBaRron1412)
 
   <h1>
     Connect With Me
