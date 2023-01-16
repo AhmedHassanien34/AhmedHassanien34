@@ -27,3 +27,59 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTorres2000&" alt="AhmedTorres2000" /></p>
 
 
+  <h1>
+    Connect With Me
+    <img
+      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
+      height="25px"
+    />
+  </h1>
+
+  <a href="https://www.linkedin.com/in/ashetaia/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.facebook.com/NightBaRron1412" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+      alt="Facebook"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.instagram.com/nightbarron_1412/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
+      alt="Instagram"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://twitter.com/NightBarRon1412" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"
+      alt="Twitter"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://discordapp.com/users/316490121556000775" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"
+      alt="Discord"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <br /><br />
+
+  ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+  ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+  ![](https://forthebadge.com/images/badges/uses-brains.svg)
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
