@@ -76,50 +76,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      alt="Anaconda"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-      alt="Jupyter"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
       alt="VS Code"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      alt="TensorFlow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-      alt="Numpy"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-      alt="Pandas"
       width="40"
       height="40"
     />
@@ -132,55 +92,13 @@
       height="40"
     />
   </a>
-  <a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-      alt="After Effects"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-      alt="MATLAB"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-      alt="Linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      alt="HTML5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
-  </a>
-
-<br /> <br />
 
   # 📊GitHub Stats :
 
   <p align="center">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=NightBaRron1412&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=Ahmedtorres2000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
       align="center"
@@ -190,7 +108,7 @@
   </p>
   
   ![𝚐𝚒𝚝𝚑𝚞𝚋
-  𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=NightBaRron1412&theme=react-dark&hide_border=true&area=true)
+  𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ahmedtorres2000&theme=react-dark&hide_border=true&area=true)
   [![Code's github activity
   graph](https://github.com/NightBaRron1412/NightBaRron1412/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/NightBaRron1412)
 
