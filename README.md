@@ -118,19 +118,6 @@
     />
   </a>
 
-  # 📊GitHub Stats :
-
-  <p align="center">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Ahmedtorres2000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    />
-    <img
-      align="center"
-      height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedtorres2000&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
-    />
-  </p>
   
   ![𝚐𝚒𝚝𝚑𝚞𝚋
   𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Ahmedtorres2000&theme=react-dark&hide_border=true&area=true)
