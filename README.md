@@ -32,14 +32,12 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
 <h2>
     <img
       src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
       height="25px"
     />
-    Connect With Me
-
+Connect With Me
 </h2>
 
   <a href="https://www.linkedin.com/in/ahmed-mohamed-921010201/" target="_blank" rel="noreferrer">
@@ -70,7 +68,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 <h1 align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTorres2000&" alt="AhmedTorres2000" /></p>
 
-  # 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="5%"/>
+ # 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="5%"/>
 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img
@@ -143,10 +141,5 @@ I'm a communication and electronics student who is passionate about Embedded Sof
   [![Code's github activity
   graph](https://github.com/NightBaRron1412/NightBaRron1412/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/NightBaRron1412)
 
-  <br /><br />
-
-  ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-  ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-  ![](https://forthebadge.com/images/badges/uses-brains.svg)
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
