@@ -2,10 +2,11 @@
 <h1 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-<h1 align="center">Welcome to my GitHub Profile ...</h1>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
-<h3 align="center">Embedded system Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+I'm a communication and electronics student who is passionate about Embedded Software.
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🔭 I’m currently working on [Graduation Project](https://github.com/AhmedTorres2000/Smart-Home)
 
@@ -15,13 +16,31 @@
 
 - 📫 How to reach me **Ahmedtorres2000@gmail.com**
 
-  <h1>
-    Connect With Me
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+- 💻 &nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+<h2>
     <img
       src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
       height="25px"
     />
-  </h1>
+    Connect With Me
+
+</h2>
 
   <a href="https://www.linkedin.com/in/ahmed-mohamed-921010201/" target="_blank" rel="noreferrer">
     <img
