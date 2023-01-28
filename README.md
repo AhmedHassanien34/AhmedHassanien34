@@ -146,6 +146,7 @@ Connect With Me
     <img
       align="center"
       height="195px"
+width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedtorres2000&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
  
