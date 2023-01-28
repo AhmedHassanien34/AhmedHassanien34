@@ -141,7 +141,6 @@ Connect With Me
   <p align="center">
     <img
       align="center"
-width="400"
       src="https://github-readme-stats.vercel.app/api?username=Ahmedtorres2000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
