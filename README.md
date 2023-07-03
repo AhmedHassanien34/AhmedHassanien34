@@ -1,8 +1,10 @@
 
-
 <h1 align="center">
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+  
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
   
