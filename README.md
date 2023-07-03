@@ -5,10 +5,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-I'm a communication and electronics student who is passionate about Embedded Software.
+A fresh graduate communication and electronics engineer who aspires to obtain a responsible Embedded Software Developer's position, In a leading company that can enhance my skills and develop my experience .
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-- 🔭 I’m currently working on [Graduation Project](https://github.com/AhmedTorres2000/Smart-Home)
 
 - 🌱 I’m currently learning **Automotive** 
 
