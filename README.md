@@ -41,7 +41,7 @@ A fresh graduate communication and electronics engineer who aspires to obtain a 
 Connect With Me
 </h2>
 
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-921010201/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-a23651294/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="LinkedIn"
