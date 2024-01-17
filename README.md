@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
   
-A fresh graduate communication and electronics engineer who aspires to obtain a responsible Embedded Software Developer's position, In a leading company that can enhance my skills and develop my experience .
+I'm an ambitious engineer who is looking for challenging in embedded software development and put my experience in embedded system projects, I'm working on myself and improve my skills individually, a very good quick self-learner.
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🌱 I’m currently learning **ISTQB** 
