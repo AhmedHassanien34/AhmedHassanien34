@@ -13,7 +13,7 @@ I'm an ambitious engineer who is looking for challenging in embedded software de
 
 - 🌱 I’m currently learning **ISTQB** 
 
-- 💬 Ask me about **C/C++ programming Languages, AVR and ARM based microcontroller, AutoSAR, and Automotive**
+- 💬 Ask me about **C/C++ programming Languages, AVR and ARM based microcontroller, AutoSAR**
 
 - 📫 How to reach me **Ahmed.Hassanien34@gmail.com**
 
