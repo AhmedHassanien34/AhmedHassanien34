@@ -8,12 +8,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
   
-I'm an ambitious engineer who is looking for challenging in embedded software development and put my experience in embedded system projects, I'm working on myself and improve my skills individually, a very good quick self-learner.
+I'm an ambitious engineer who is looking for challenging in Quality and put my experience in Real Projects, I'm working on myself and improve my skills individually, a very good quick self-learner.
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🌱 I’m currently learning **ISTQB** 
+- 🌱 I’m currently learning **APPIUM** 
 
-- 💬 Ask me about **C/C++ programming Languages, AVR and ARM based microcontroller, AutoSAR**
+- 💬 Ask me about **Manual, Automation, API, DataBase, SQL, Performance, Shaft Engine**
 
 - 📫 How to reach me **Ahmed.Hassanien34@gmail.com**
 
@@ -41,7 +41,7 @@ I'm an ambitious engineer who is looking for challenging in embedded software de
 Connect With Me
 </h2>
 
-  <a href="https://www.linkedin.com/in/ahmedhassanien34/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ahmed-hassanien-47a7492ab/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="LinkedIn"
