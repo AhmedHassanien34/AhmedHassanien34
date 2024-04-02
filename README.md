@@ -13,7 +13,7 @@ I'm an ambitious engineer who is looking for challenging in Quality and put my e
 
 - 🌱 I’m currently learning **APPIUM** 
 
-- 💬 Ask me about **Manual, Automation, API, DataBase, SQL, Performance, Shaft Engine**
+- 💬 Ask me about **Manual, Automation, API, DataBase, SQL, Performance, and Shaft Engine**
 
 - 📫 How to reach me **Ahmed.Hassanien34@gmail.com**
 
