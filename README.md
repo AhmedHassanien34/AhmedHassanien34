@@ -49,14 +49,6 @@ Connect With Me
       height="40"
     />
   </a>
-  <a href="https://www.facebook.com/Tor.rees99" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-      alt="Facebook"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.instagram.com/tor.rees/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
