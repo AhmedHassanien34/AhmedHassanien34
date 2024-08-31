@@ -11,7 +11,7 @@
 Experienced Software Testing Engineer skilled in manual and automation testing. I excel in designing and executing test cases, detecting bugs, and reporting them effectively. I have strong experience in Performance, API and Automation using Selenium, RestAssured and Appium, alongside basic knowledge in CI/CD.
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🌱 I’m currently learning **َQuality Management** 
+- 🌱 I’m currently learning **Quality Management** 
 
 - 💬 Ask me about **Manual, Automation, API, DataBase, SQL, Performance, Rest Assured and Appium**
 
