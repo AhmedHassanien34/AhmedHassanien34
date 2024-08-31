@@ -17,6 +17,9 @@ Experienced Software Testing Engineer skilled in manual and automation testing. 
 
 - 📫 How to reach me **Ahmed.Hassanien34@gmail.com**
 
+- 📄 Know about my experiences [[https://drive.google.com/file/d/14yPejTjrYPYr2xxqfMOj8v6cSbjH5y49/view?usp=sharing](https://drive.google.com/file/d/14yPejTjrYPYr2xxqfMOj8v6cSbjH5y49/view?usp=sharing)]
+
+
 <h3>  &nbsp;🛠️ Tools:</h3>
 
 - ⚙️ &nbsp;
