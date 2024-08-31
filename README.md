@@ -17,12 +17,7 @@ Experienced Software Testing Engineer skilled in manual and automation testing. 
 
 - 📫 How to reach me **Ahmed.Hassanien34@gmail.com**
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
-
-- 💻 &nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+<h3>  &nbsp;🛠️ Tools:</h3>
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
